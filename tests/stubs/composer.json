@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/stubs",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "h",
+            "email": "email@example.com"
+        }
+    ],
+    "require": {
+    }
+}
